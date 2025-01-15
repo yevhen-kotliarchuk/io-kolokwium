@@ -1,4 +1,4 @@
-//Proszę zrefaktoryzować poniższy kod (głównie pod kątem usuwania duplikacji)
+// zadanie 4
 
 abstract class Turysta {
     protected double dziennyKoszt;
